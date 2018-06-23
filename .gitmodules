@@ -1,9 +1,9 @@
 [submodule "nnp_part1"]
 	path = proj1
 	url = https://github.com/atifhans/nnp_part1.git
-[submodule "proj2"]
+[submodule "nnp_part2"]
 	path = proj2
-	url = ./proj2
-[submodule "proj3"]
+	url = https://github.com/atifhans/nnp_part2.git 
+[submodule "nnp_part3"]
 	path = proj3
-	url = ./proj3
+	url = https://github.com/atifhans/nnp_part3.git 
